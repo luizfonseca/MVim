@@ -1,0 +1,7 @@
+Windows = _vimrc
+Unix = vimrc
+Mac = .vimrc
+
+Another OS call this folder as "vimfiles".
+MacVim user.
+:*
